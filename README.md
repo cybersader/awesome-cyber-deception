@@ -1,0 +1,8 @@
+- https://github.com/tolgadevsec/Awesome-Deception
+- Attribution
+  - Honeybadger
+  - CanaryTokens
+- EWS
+- KevinMcallister
+- Kevyn?
+  - New tool name?
